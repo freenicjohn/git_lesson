@@ -1,4 +1,4 @@
-// Nic was here 
+// Nic was here  
 
 public class Car {
     private String color;
